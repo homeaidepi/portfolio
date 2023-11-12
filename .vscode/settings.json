@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/061ede2c-6c43-4dfa-b69c-76e86ce243a4/resourceGroups/Vandy.io/providers/Microsoft.Web/sites/Vandy",
+    "appService.deploySubpath": "."
+}
