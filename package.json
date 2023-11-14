@@ -1,8 +1,9 @@
 {
   "name": "github-react-portfolio-template",
-  "homepage": "https://YourUsername.github.io/your-app/",
+  "homepage": "https://vandy.io",
   "version": "0.1.0",
   "private": true,
+  "main": "src/index.js",
   "dependencies": {
     "@iconify/react": "^4.1.0",
     "@reduxjs/toolkit": "^1.9.7",
