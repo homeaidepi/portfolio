@@ -39,49 +39,156 @@ export const moreInfo =
 */
 export const skillData = [
   {
+    id: 28,
+    skill: <Icon icon="fluent-mdl2:party-leader" className="display-4" />,
+    name: "Leadership",
+  },
+  {
+    id: 29,
+    skill: <Icon icon="fluent-mdl2:teamwork" className="display-4" />,
+    name: "Teamwork",
+  },
+  {
+    id: 30,
+    skill: <Icon icon="ion:git-network-sharp" className="display-4" />,
+    name: "Community",
+  },
+  {
     id: 1,
-    skill: <Icon icon="mdi:language-html5" className="display-4" />,
-    name: "HTML5",
+    skill: <Icon icon="carbon:ibm-z-environments-dev-sec-ops" className="display-4" />,
+    name: "DevSecOps",
   },
   {
     id: 2,
-    skill: <Icon icon="ion:logo-css3" className="display-4" />,
-    name: "CSS3",
+    skill: <Icon icon="iconoir:agile" className="display-4" />,
+    name: "Agile",
   },
   {
     id: 3,
+    skill: <Icon icon="fluent-mdl2:test-step" className="display-4" />,
+    name: "TDD & BDD",
+  },
+  {
+    id: 4,
     skill: <Icon icon="fa6-brands:js" className="display-4" />,
     name: "JavaScript",
   },
   {
-    id: 4,
-    skill: <Icon icon="ri:bootstrap-fill" className="display-4" />,
-    name: "BootStrap",
-  },
-  {
     id: 5,
-    skill: <Icon icon="mdi:react" className="display-4" />,
-    name: "React",
+    skill: <Icon icon="cib:typescript" className="display-4" />,
+    name: "TypeScript",
   },
   {
     id: 6,
-    skill: <Icon icon="file-icons:styledcomponents" className="display-4" />,
-    name: "Styled Components",
+    skill: <Icon icon="nonicons:c-sharp-16" className="display-4" />,
+    name: "C#",
   },
   {
     id: 7,
-    skill: <Icon icon="akar-icons:redux-fill" className="display-4" />,
-    name: "Redux",
+    skill: <Icon icon="devicon-plain:dot-net-wordmark" className="display-4" />,
+    name: "",
   },
   {
     id: 8,
-    skill: <Icon icon="bi:git" className="display-4" />,
-    name: "Git",
+    skill: <Icon icon="cib:azure-devops" className="display-4" />,
+    name: "Azure DevOps",
   },
   {
     id: 9,
     skill: <Icon icon="fa6-brands:square-github" className="display-4" />,
     name: "GitHub",
+  },
+  {
+    id: 10,
+    skill: <Icon icon="bxl:nodejs" className="display-4" />,
+    name: "NodeJS",
+  },
+  {
+    id: 11,
+    skill: <Icon icon="simple-icons:express" className="display-4" />,
+    name: "Express",
+  },
+  {
+    id: 12,
+    skill: <Icon icon="cib:graphql" className="display-4" />,
+    name: "GraphQL",
+  },
+  {
+    id: 13,
+    skill: <Icon icon="mdi:language-html5" className="display-4" />,
+    name: "HTML5",
+  },
+  {
+    id: 14,
+    skill: <Icon icon="ion:logo-css3" className="display-4" />,
+    name: "CSS3",
+  },
+  {
+    id: 15,
+    skill: <Icon icon="file-icons:styledcomponents" className="display-4" />,
+    name: "Styled Components",
+  },
+  
+  {
+    id: 16,
+    skill: <Icon icon="ri:bootstrap-fill" className="display-4" />,
+    name: "BootStrap",
+  },
+  {
+    id: 17,
+    skill: <Icon icon="mdi:react" className="display-4" />,
+    name: "React",
+  },
+  
+  {
+    id: 18,
+    skill: <Icon icon="akar-icons:redux-fill" className="display-4" />,
+    name: "Redux",
+  },
+  {
+    id: 19,
+    skill: <Icon icon="devicon-plain:redis-wordmark" className="display-4" />,
+    name: "Redis",
+  },
+  {
+    id: 20,
+    skill: <Icon icon="devicon-plain:cosmosdb" className="display-4" />,
+    name: "Cosmos DB",
+  },
+  {
+    id: 21,
+    skill: <Icon icon="cib:mongodb" className="display-4" />,
+    name: "MongoDB",
+  },
+  {
+    id: 22,
+    skill: <Icon icon="cib:postgresql" className="display-4" />,
+    name: "PostgreSQL",
+  },
+  {
+    id: 23,
+    skill: <Icon icon="mdi:sql-query" className="display-4" />,
+    name: "SQL",
+  },
+  {
+    id: 24,
+    skill: <Icon icon="dashicons:rest-api" className="display-4" />,
+    name: "REST API",
+  },
+  {
+    id: 25,
+    skill: <Icon icon="fluent-mdl2:open-source" className="display-4" />,
+    name: "OSS",
+  },
+  {
+    id: 26,
+    skill: <Icon icon="devicon-plain:visualstudio" className="display-4" />,
+    name: "Visual Studio & Code",
+  },
+  {
+    id: 27,
+    skill: <Icon icon="ri:more-line" className="display-4" />,
+    name: "& More",
   },
 ];
 
